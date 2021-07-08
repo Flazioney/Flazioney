@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Flazioney
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Flazioney O.
+- 👀 Software engineer
+- 🌱 Full Stak Developer in (C#)
+- 💞️ Language (C#, React, Ionic, Python)
+- 📫 Database (Sql Server, Oracle)
 
 <!---
 Flazioney/Flazioney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
